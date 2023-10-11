@@ -1,0 +1,45 @@
+/* Define CSS styles with suitable class names */
+.contact-container {
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
+
+  }
+  
+  .contact-form {
+    display: block;
+    background-color: #fff;
+    box-shadow: 11px 1px 3px 2px #ddd;
+    margin: 40px auto;
+    height: auto;
+    max-width: 600px;
+    max-height: 700px;
+    padding: 25px 40px;
+  }
+  
+  .contact-input,
+  .contact-textarea {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 15px auto;
+    padding: 8px;
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+  }
+  
+  .contact-button {
+    height: 30px;
+    width: 80px;
+    align-items: center;
+    border: none;
+    background-color: rgb(29, 185, 237);
+    color: #ffff;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .contact-form h1 span {
+    color: rgb(29, 185, 237);
+  }
+  

@@ -1,0 +1,33 @@
+.des-container {
+    margin: 3rem 3rem;
+}
+
+.About-notes {
+    display: flex;
+    /* padding: 3rem 5rem; */
+}
+
+.des {
+    
+  }
+
+
+  
+  .des-p {
+    padding: 10px 10px;
+    text-align: justify;
+    font-size: 15px;
+  }
+
+  .des-image {
+    height: 100px;
+    width: auto;
+  }
+
+  .des-image-1 {
+    position: relative;
+  }
+
+  .img-seed {
+    width: 100%;
+  }

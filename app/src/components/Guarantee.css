@@ -1,0 +1,25 @@
+.guarantee {
+    margin:1rem 1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.img-g {
+    height: 300px;
+    width: auto;
+    transform: rotate(-30deg);
+}
+
+.Satisfaction-h {
+    margin-bottom: 1.5rem;
+    color: #0074c2;
+    font-size: 28px;
+}
+
+.Satisfaction-text {
+    margin-bottom: 2rem;
+}
+
+.Satisfaction {
+    margin: 2rem 4rem;
+}

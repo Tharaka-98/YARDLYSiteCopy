@@ -1,0 +1,80 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee; /* Use the desired background color */
+    height: 100vh;
+  }
+  
+  .login-form {
+    background-color: #fff; /* Use the desired background color */
+    padding: 1.5rem;
+    border-radius: 0.25rem;
+    width: 25rem;
+    box-shadow: 11px 1px 3px 2px #ddd;
+  }
+
+  .form-name {
+    margin-top: 2.5rem;
+  }
+  
+  .form-group {
+    display: inline-block;
+    width: 25rem;
+    margin-bottom: 1rem;
+  }
+
+  .lbl {
+    display: inline-block;
+    width: 150px;
+  }
+  
+  .form-control {
+    border-radius: 0;
+  }
+  
+  .btn-success {
+    background-color: rgb(29, 185, 237); /* Use the desired button color */
+    border-radius: 0;
+    margin-bottom: rem;;
+  }
+  
+  .btn-default {
+    background-color: #f8f9fa; /* Use the desired button color */
+    border: 1px solid #ccc;
+    border-radius: 0;
+  }
+  
+  .btn-default:hover {
+    background-color: #e2e6ea; /* Use the desired button hover color */
+  }
+  
+  .create-account-link {
+    display: block;
+    width: 100%;
+    background-color: #f8f9fa; /* Use the desired background color */
+    border: 1px solid #ccc;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 0;
+    padding: 0.375rem 0;
+    color: #000; /* Use the desired text color */
+    margin-top: 1rem;
+  }
+  
+  .create-account-link:hover {
+    background-color: #e2e6ea; /* Use the desired link hover color */
+  }
+
+  .error-message {
+    color: #ff0000; /* Use the desired text color for errors */
+    font-size: 14px; /* Use the desired font size for errors */
+    margin-left: 6rem;
+}
+
+.login-error-message {
+  color: #ff0000; /* Use the desired text color for login errors */
+  font-size: 14px; /* Use the desired font size for login errors */
+  margin-left: 6rem; /* Adjust the margin as needed */
+  margin-top: -10px; /* Adjust the margin as needed */
+}
