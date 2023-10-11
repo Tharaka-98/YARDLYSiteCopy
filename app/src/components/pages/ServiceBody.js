@@ -36,7 +36,7 @@ const ServiceBody = () => {
             />
             <ServiceBodyCards
               src={img_1}
-              text="Supporting information about this service"
+              text="Lawn restorations / New Lawns"
               label="Weed Control and Fertilization"
               path="/services"
             />
@@ -44,7 +44,7 @@ const ServiceBody = () => {
           <ul className="cards__items">
             <ServiceBodyCards
               src={img_3}
-              text="Set grass layout as you wish"
+              text="Spring lawn wake up services"
               label="Layout"
               path="/services"
             />
@@ -56,13 +56,13 @@ const ServiceBody = () => {
             />
             <ServiceBodyCards
               src={img_5}
-              text="Keep your lawn green and tidy"
+              text="Full Clean Up"
               label="Lawn Mowing"
               path="/sign-up"
             />
             <ServiceBodyCards
               src={img_7}
-              text="Keep your lawn green and tidy"
+              text="Total yard clean up"
               label="Spring Clean Up"
               path="/sign-up"
             />
